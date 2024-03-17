@@ -20,3 +20,4 @@ Welcome to the CV Creator App project! In this project, you will build a mobile 
 
 
 
+<a href="https://ibb.co/mSDV5Nr"><img src="https://i.ibb.co/fQ1zdDV/Screenshot-1710659036.png" alt="Screenshot-1710659036" border="0"></a>
