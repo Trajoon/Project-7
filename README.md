@@ -1,6 +1,7 @@
 # CV Creator App with Flutter and Supabase
 
 Welcome to the CV Creator App project! In this project, you will build a mobile application using Flutter and Supabase to enable users to create, manage, and share their Curriculum Vitae (CV).
+
 <img src="https://github.com/Trajoon/Project-7/assets/153893124/e9a82707-6460-481a-b50d-d26cb6f1d25b" width="200">
 
 <img src="https://github.com/Trajoon/Project-7/assets/153893124/7a65ffa1-0637-40fa-9ce6-852eb55fc6e2" width="200">
@@ -20,4 +21,3 @@ Welcome to the CV Creator App project! In this project, you will build a mobile 
 
 
 
-<a href="https://ibb.co/mSDV5Nr"><img src="https://i.ibb.co/fQ1zdDV/Screenshot-1710659036.png" width="200" alt="Screenshot-1710659036" border="0"></a>
